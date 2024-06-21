@@ -1,0 +1,45 @@
+.footer{
+    background-color: #5961BD;
+}
+
+@font-face {
+    font-family: Poppins500;
+    src: url(../../fonts/Poppins/Poppins-Medium.ttf);
+}
+.footer .container .row .col-4 .item h3{
+    font-family: Poppins500;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+}
+@font-face {
+    font-family: Poppins400;
+    src: url(../../fonts/Poppins/Poppins-Regular.ttf);
+}
+.footer .container .row .col-4 .item .support p{
+    font-family: Poppins400;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+.footer .container .row .col-4 .item .col-2 .icons ul{
+    list-style: none;
+}
+
+.footer .container .row .col-4 .item .col-2{
+    height: inherit;
+    box-sizing: border-box;
+}
+.footer .container .row .col-4 .item .col-10 .apps h3{
+    font-family: Poppins500;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+}
+.footer p{
+    color: #f0ebeb;
+    font-family: Poppins400;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}

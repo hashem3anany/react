@@ -1,0 +1,24 @@
+.Login .col-6  .item{
+    background-color: #969EFC;
+}
+.Login .col-5 .item input{
+    border-bottom-width: 1px gray;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.Login .col-5 .item input:focus, .signupsection .content input:hover, .signupsection .content input:active {
+    outline: none;
+    box-shadow:none;
+}
+.Login .col-5 .item .bt{
+    background-color: #535CC1;
+}
+#response {
+    color: green;
+}
+.loading-screen {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    z-index: 1000; /* Ensure it is above other elements */
+  }
+  

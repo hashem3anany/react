@@ -1,0 +1,46 @@
+.chat .container-fluid .row .col-8 .item{
+    height: 600px;
+}
+.chat .container-fluid .row .col-8 .item .msg{
+    height: 50px;
+    background: linear-gradient(to right,#969EFC,#5961BD);
+}
+.chat .container-fluid .row .col-8 .item .msg input{
+    background: transparent;
+    color: white;
+}
+.chat .container-fluid .row .col-8 .item .msg input::placeholder {
+    color: white;
+    opacity: 1; /* Firefox */
+  }
+.chat .container-fluid .row .col-8 .item .msg input:focus,.chat .container-fluid .row .col-8 .item .msg input:active,.chat .container-fluid .row .col-8 .item .msg input:hover{
+    outline: none !important;
+    box-shadow:none !important;
+
+}
+.sender{
+    background-color: #E9EAEC;
+    width: fit-content;
+    max-width: 50%;
+}
+.receiver{
+    background-color: #969EFC;
+    width: fit-content;
+    max-width: 75%;
+}
+.friend{
+    border-bottom: solid 1px black;
+}
+.chat .container-fluid .row .col-3 .item {
+    height: 600px !important;
+}
+#with{
+    height: 100px;
+    overflow: hidden;
+}
+#with h3 span{
+    font-size: 1rem;
+}
+#with h3{
+    font-size: 1.5rem;
+}

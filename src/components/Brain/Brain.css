@@ -1,0 +1,17 @@
+.bonesection .layer{
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #01204E;
+    text-align: center;
+    display: block !important;
+}
+.bonesection .layer .container .row .col-4 .item {
+    background-color: #5961BD;
+    color: white !important;
+}
+.scan{
+    background-color: #01204E;
+    color: white !important;
+}

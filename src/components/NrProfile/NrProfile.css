@@ -1,0 +1,43 @@
+#ap{
+    background: white;
+    color: black !important;
+}
+.dr-profile .row .col-4 .item{
+    box-shadow: 0px 10px 10px gray;
+    background-color: #5961BD;
+    color: white;
+    height: 400px;
+}
+.star{
+    color: #FFAD33 !important;
+}
+.rating-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+  }
+  
+  .rating-popup-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .stars i {
+    font-size: 2rem;
+    color: gray;
+    cursor: pointer;
+  }
+  
+  .stars i.star {
+    color: gold;
+  }
+  

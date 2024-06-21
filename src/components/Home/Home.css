@@ -1,0 +1,129 @@
+.homesection .home{
+    background-image: url(../../images/homeback.png);
+    background-size: cover;
+    position: relative;
+}
+a{
+    text-decoration: none;
+    
+}
+.homesection .home .layer{
+    background-color: rgba(89, 97, 189,.4);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+@font-face {
+    font-family: Inter700;
+    src: url(../../fonts/Inter/static/Inter-Bold.ttf);
+}
+.homesection .home .layer .content .hometext h1{
+    font-family: Inter700;
+    font-size: 64px ;
+    font-weight: 700;
+    line-height: 24px;
+}
+@font-face {
+    font-family: Inter500;
+    src: url(../../fonts/Inter/static/Inter-Medium.ttf);
+}
+.homesection .home .layer .content .hometext p{
+    font-family: Inter500;
+    font-size: 32px ;
+    font-weight: 500;
+    line-height: 35px;
+}
+.homesection .crdoctor .container .carousel-inner .carousel-item{
+    background-color: #F2F2F2 !important;
+
+}
+.homesection .crdoctor .container .carousel-inner .carousel-item .drname{
+    font-family: Inter500;
+    font-size: 20px ;
+    font-weight: 500;
+    line-height: 24px;
+}
+@font-face {
+    font-family: IBMPlexSans400;
+    src: url(../../fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf);
+}
+.homesection .crdoctor .container .carousel-inner .carousel-item .drdesc{
+    font-family: IBMPlexSans400;
+    font-size: 20px ;
+    font-weight: 400;
+    line-height: 30px;
+}
+.homesection .crdoctor .container .carousel-inner .carousel-item .rate .star{
+    color: #FFAD33 !important;
+}
+.homesection .crdoctor .container .carousel-indicators{
+    top: 100%;
+}
+.homesection .crdoctor .container .carousel-indicators button{
+    background-color: #A6A6A6 !important;
+    width: 12px !important;
+    height: 12px !important;
+    border-radius: 50%;
+
+}
+.need-doctor .container .row .col-6 .item .btn{
+    background: linear-gradient( to right,#969EFC, #5961BD);
+}
+.homesection .services .container .row .col-3 .item {
+    background-color: #5961BD;
+
+}
+.need-doctor .container .row .col-6 .item h2{
+    font-family: Inter500;
+    font-size: 24px ;
+    font-weight: 500;
+    line-height: 24px;
+}
+.need-doctor .container .row .col-6 .item p{
+    font-family: IBMPlexSans400;
+    font-size: 24px ;
+    font-weight: 400;
+    line-height: 30px;
+    color: #3c3b3b;
+}
+@font-face {
+    font-family: Poppins500;
+    src: url(../../fonts/Poppins/Poppins-Medium.ttf);
+}
+.homesection .services  h2{
+    font-family: Poppins500;
+    font-size: 40px ;
+    font-weight: 500;
+    line-height: 21px;
+}
+.homesection .services  .servicetext{
+    font-family: IBMPlexSans400;
+    font-size: 20px ;
+    font-weight: 400;
+    line-height: 30px;
+    color: #747474;
+}
+.carousel-item {
+    height: 250px; /* Adjust this value as needed */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .carousel-item img {
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+  }
+  
+  .drdesc {
+    flex-grow: 1;
+  }
+  
+  .gray {
+    color: gray;
+  }
+  

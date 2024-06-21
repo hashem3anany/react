@@ -1,0 +1,13 @@
+.n-data .container .row .col-8 .item input{
+    border-bottom-width: 1px gray;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.n-data .container .row .col-8 .item input:focus, .d-data .container .row .col-8 .item input:hover, .d-data .container .row .col-8 .item input:active{
+    outline: none;
+    box-shadow:none;
+}
+.n-data .item .btn{
+    background: linear-gradient(to right,#969EFC,#5961BD);
+}

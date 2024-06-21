@@ -1,0 +1,50 @@
+.contact .row .col-3 .item .f {
+    border-bottom: 1px solid black;
+}
+.contact .row .col-8 , .sh {
+    box-shadow: 0px 0px 10px 0px rgba(63, 62, 62, 0.2);
+    border: rgba(0, 0, 0, 0.2) 1px;
+}
+.contact #sendbtn{
+    background: linear-gradient(to right,#969EFC, #5961BD);
+    color: white;
+}
+.contact .gr{
+    background-color: #F5F5F5;
+}
+.contact h2 span{
+    background-color: #a3a5a8 !important;
+}
+@font-face {
+    font-family: Poppins500;
+    src: url(../../fonts/Poppins/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: Poppins400;
+    src: url(../../fonts/Poppins/Poppins-Regular.ttf);
+}
+.contact h2{
+    font-family: Poppins500;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+.contact p{
+    font-family: Poppins400;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+}
+.contact .head p{
+    font-family: Poppins400;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+}
+.contact .head p span{
+    font-family: Poppins500;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: bolder;
+    color: black;
+}

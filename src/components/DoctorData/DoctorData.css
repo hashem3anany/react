@@ -1,0 +1,42 @@
+.d-data .container .row .col-8 .item input{
+    border-bottom-width: 1px gray;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.d-data .container .row .col-8 .item input:focus, .d-data .container .row .col-8 .item input:hover, .d-data .container .row .col-8 .item input:active{
+    outline: none;
+    box-shadow:none;
+}
+.d-data .container .row .col-8 .item textarea:focus, .d-data .container .row .col-8 .item textarea:hover, .d-data .container .row .col-8 .item textarea:active{
+    outline: none;
+    box-shadow:none;
+}
+.d-data .container .row .col-8 .item textarea{
+    background-color: rgba(30, 30, 30, 0.5);
+    color: white;
+}
+.d-data .item .btn{
+    background: linear-gradient(to right,#969EFC,#5961BD);
+}
+#spec{
+    border-bottom-width: 1px black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.d-data .container .row .col-8 .item #spec:focus, .d-data .container .row .col-8 .item #spec:hover, .d-data .container .row .col-8 .item #spec:active{
+    outline: none;
+    box-shadow:none;
+}
+#gov{
+    border-bottom-width: 1px black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+ #gov:focus,  #gov:hover, #gov:active{
+    outline: none;
+    box-shadow:none;
+}
+
