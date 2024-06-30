@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react/static/css/main.5f855ecf.css",
-    "main.js": "/react/static/js/main.7b92b32f.js",
+    "main.js": "/react/static/js/main.124b6e42.js",
     "static/js/453.832956ea.chunk.js": "/react/static/js/453.832956ea.chunk.js",
     "static/media/cancer2.png": "/react/static/media/cancer2.70d35c5fca5bd667941c.png",
     "static/media/dlist.png": "/react/static/media/dlist.cd64637a8aa9b4d222c6.png",
@@ -32,11 +32,11 @@
     "static/media/fa-v4compatibility.woff2": "/react/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/react/index.html",
     "main.5f855ecf.css.map": "/react/static/css/main.5f855ecf.css.map",
-    "main.7b92b32f.js.map": "/react/static/js/main.7b92b32f.js.map",
+    "main.124b6e42.js.map": "/react/static/js/main.124b6e42.js.map",
     "453.832956ea.chunk.js.map": "/react/static/js/453.832956ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f855ecf.css",
-    "static/js/main.7b92b32f.js"
+    "static/js/main.124b6e42.js"
   ]
 }
