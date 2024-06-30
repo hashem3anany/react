@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.5f855ecf.css",
+    "main.js": "/react/static/js/main.7b92b32f.js",
+    "static/js/453.832956ea.chunk.js": "/react/static/js/453.832956ea.chunk.js",
+    "static/media/cancer2.png": "/react/static/media/cancer2.70d35c5fca5bd667941c.png",
+    "static/media/dlist.png": "/react/static/media/dlist.cd64637a8aa9b4d222c6.png",
+    "static/media/homeback.png": "/react/static/media/homeback.8f11101123fe8a6e6b0a.png",
+    "static/media/needdoc.png": "/react/static/media/needdoc.6b80c90bdd65d5c6b37a.png",
+    "static/media/fa-solid-900.ttf": "/react/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/neednurse.png": "/react/static/media/neednurse.324d6fbe204d89f12824.png",
+    "static/media/Inter-Bold.ttf": "/react/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-Medium.ttf": "/react/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/y.jpg": "/react/static/media/y.523858ddfca507920292.jpg",
+    "static/media/fa-brands-400.ttf": "/react/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "/react/static/media/IBMPlexSans-Regular.d77342fdcbcb6b3ce1b5.ttf",
+    "static/media/Poppins-Regular.ttf": "/react/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/react/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/fa-solid-900.woff2": "/react/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/login.png": "/react/static/media/login.0d29db4a0a1e5bf37905.png",
+    "static/media/fa-brands-400.woff2": "/react/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/breast.png": "/react/static/media/breast.fcb394b8abbb6882ecc8.png",
+    "static/media/brain.png": "/react/static/media/brain.91f0bca5526da083fa26.png",
+    "static/media/fa-regular-400.ttf": "/react/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/signup.png": "/react/static/media/signup.ecb19351104194630a5e.png",
+    "static/media/bone.png": "/react/static/media/bone.05033d8792da5291e5e8.png",
+    "static/media/homelogo.png": "/react/static/media/homelogo.e7377095686a5d7f2c6b.png",
+    "static/media/fa-regular-400.woff2": "/react/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/footerLogo.png": "/react/static/media/footerLogo.0df58e4ee9ad261386b8.png",
+    "static/media/fa-v4compatibility.ttf": "/react/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/drc.png": "/react/static/media/drc.1509001e74ed971bfdf0.png",
+    "static/media/fa-v4compatibility.woff2": "/react/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/react/index.html",
+    "main.5f855ecf.css.map": "/react/static/css/main.5f855ecf.css.map",
+    "main.7b92b32f.js.map": "/react/static/js/main.7b92b32f.js.map",
+    "453.832956ea.chunk.js.map": "/react/static/js/453.832956ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f855ecf.css",
+    "static/js/main.7b92b32f.js"
+  ]
+}
